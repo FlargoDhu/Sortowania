@@ -1,2 +1,2 @@
 # Sortowania
-Sortuje sie
+Simple Sort Exercisse
